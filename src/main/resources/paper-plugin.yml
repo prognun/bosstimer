@@ -1,0 +1,4 @@
+name: bosstimer
+version: '${version}'
+main: org.example.test.bosstimer.Bosstimer
+api-version: '1.20'
